@@ -6,11 +6,11 @@
 A simple and interactive **To-Do List Application** built with **HTML, Tailwind CSS, and JavaScript**. This app allows users to **add, remove, and track tasks** with an integrated **calendar** for better organization.  
 
 #### **🚀 Features**  
-✅**Basic Arithmetic**: Add, subtract, multiply, divide
-✅**Percentage** Calculation: Can calculate percent (% to /100)
-✅**Sign Toggle**: Can change numbers from positive to negative
-✅**Delete & Delete**: Can delete the last character or all numbers
-✅**Operator Prevention**: Prevents double operator input  
+✅ **Search Weather by City** – User inputs country name or city and weather info will appears.
+✅ **Show Temperature & Weather Conditions** – Ex: 30°C, Rainy, Cloudy, etc.
+✅ **Use Weather API** – Fetch data from OpenWeather or others.
+✅ **Display Wind Speed ​​& Humidity** – Additional information to make it complete.
+✅ **Change the background according to the weather** – For example, rain = cloudy background.
 
 #### **📂 Project Structure**  
 ```
